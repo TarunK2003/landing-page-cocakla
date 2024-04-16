@@ -159,6 +159,38 @@ html,body{
     align-items: center;
     justify-content: space-between;
     height: 70px;
-    border-bottom: 2px solid black; 
+    border-bottom: 2px solid white; 
     font-family: monument;
+}
+.elm1>h1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    border-bottom: 2px solid white; 
+    font-family: monument;
+    font-weight: 500;
+}
+
+
+.elm2>h1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    border-bottom: 2px solid white;
+    font-family: monument;
+    font-weight: 500;
+}
+
+.elm3>h1{
+    line-height: 200%;
+    height: 50px;
+    font-family: monument;
+    font-weight: 500;
+}
+
+.elm3>p{
+    color: red;
+    
 }
